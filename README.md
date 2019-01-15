@@ -2,3 +2,4 @@
 It is a RA8806 LCD drive code to stm32
 
 changed
+add a new branch test.
